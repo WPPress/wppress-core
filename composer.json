@@ -1,0 +1,14 @@
+{
+    "name": "sovit/wppress-core",
+    "autoload": {
+    },
+    "authors": [
+        {
+            "name": "Sovit Tamrakar",
+            "email": "sovit.tamrakar@gmail.com"
+        }
+    ],
+    "require": {
+		"ssovit/utilities": "^1.0"
+    }
+}
